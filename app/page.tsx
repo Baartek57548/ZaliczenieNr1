@@ -11,7 +11,7 @@ export default function KaliopPolandProfile() {
       <div className="bg-white border-b">
         <div className="max-w-4xl mx-auto px-4">
           {/* Hero Banner */}
-          <div className="relative h-48 md:h-64 -mx-4 mb-4 bg-blue-600">
+          <div className="relative h-48 md:h-64 -mx-4 mb-4">
             <Image
               src="/images/hero-banner.jpg"
               alt="Kaliop Poland - Delivering digital value for people"
