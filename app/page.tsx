@@ -185,12 +185,12 @@ export default function KaliopPolandProfile() {
                 </div>
 
                 <p className="text-gray-800 mb-4">
-                  Kolejna spotkania Rady Pracowników w Instytucie Nauk Społecznych Technicznych za nami! 🎯
+                  Kolejna spotkania Rady Pracowników w Instytucie Nauk Społecznych Technicznych za nami! 
                   <br />
                   Rozmawialiśmy o naszej działalności w ramach najnowszych technologii. 🚀 Jest to działanie
                   długoterminowe, ale już możemy wyjaśnić za wiele.
                   <br />
-                  Trzymamy kciuki, żeby nadszedł moment, gdzie możesz z nam będą wszyscy. 🤞
+                  Trzymamy kciuki, żeby nadszedł moment, gdzie możesz z nam będą wszyscy. 
                 </p>
 
                 {/* Post Image */}
